@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'acts_as_votable'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'devise'
 gem 'haml'
